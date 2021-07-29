@@ -3,5 +3,10 @@ WACANA INSTALASI PYTHON
 - instal editor
 - instal beberapa pip
 - intall database
-  ^ Instal Tomcat
+  ^ tambah install xampp
+  ^ install MYSQL Database
 - Belajar Laravel
+-Javascript
+ + Framework Javascript
+    ^ Vue
+    ^ React
