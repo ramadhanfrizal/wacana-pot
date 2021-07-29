@@ -4,3 +4,9 @@ WACANA INSTALASI PYTHON
 - memastikan jalur path nya
 - instal beberapa pip
 - intall database
+  ^ tambah install xampp
+  ^ install MYSQL Database
+-Javascript
+ + Framework Javascript
+    ^ Vue
+    ^ React
