@@ -1,2 +1,2 @@
 # wacana-pot
-Berisikan semua wacana yang di wacanakan
+Repository yang berisikan semua wacana yang di wacanakan
