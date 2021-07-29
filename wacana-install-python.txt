@@ -3,3 +3,4 @@ WACANA INSTALASI PYTHON
 - instal editor
 - memastikan jalur path nya
 - instal beberapa pip
+- intall database
