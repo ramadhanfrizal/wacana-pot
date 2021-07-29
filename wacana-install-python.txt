@@ -1,6 +1,7 @@
 WACANA INSTALASI PYTHON
 - instal python terbaru
 - instal editor
-- memastikan jalur path nya
 - instal beberapa pip
 - intall database
+  ^ Instal Tomcat
+- Belajar Laravel
