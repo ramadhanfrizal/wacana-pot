@@ -1,0 +1,4 @@
+WACANA INSTALASI PYTHON
+- instal python terbaru
+- instal editor
+- instal beberapa pip
