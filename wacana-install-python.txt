@@ -6,3 +6,7 @@ WACANA INSTALASI PYTHON
 - intall database
   ^ tambah install xampp
   ^ install MYSQL Database
+-Javascript
+ + Framework Javascript
+    ^ Vue
+    ^ React
