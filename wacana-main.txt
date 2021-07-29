@@ -2,3 +2,4 @@ Wacana Tahun ini
 - Belajar Python
 - Belajar editing vids
 - Cobain Github
+- Project iseng
