@@ -5,8 +5,11 @@ WACANA INSTALASI PYTHON
 - intall database
   ^ tambah install xampp
   ^ install MYSQL Database
-- Belajar Laravel
+- PHP Frameworks
+  ^ Laravel
 -Javascript
- + Framework Javascript
+ * ES6
+ * Framework Javascript
     ^ Vue
     ^ React
+    ^ Angular
